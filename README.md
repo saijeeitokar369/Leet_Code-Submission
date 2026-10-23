@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1480-running-sum-of-1d-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
