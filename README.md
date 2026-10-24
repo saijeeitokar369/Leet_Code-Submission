@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/saijeeitokar369/Leet_Code-Submission/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
